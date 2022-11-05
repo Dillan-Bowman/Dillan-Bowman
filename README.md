@@ -30,7 +30,7 @@
   - 📘 The Alchymest book series (michael scott)
   - 🍰 baking goodies
 - 📫 How to reach me:
-  - ✉️ 
+  - ✉️ email
     - primary: 
       - Lolmc2022@outlook.com
     - secondary: 
