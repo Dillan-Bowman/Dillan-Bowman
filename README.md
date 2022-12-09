@@ -30,25 +30,7 @@
   - 📘 The Alchymest book series (michael scott)
   - 🍰 baking goodies
 - 📫 How to reach me:
-  - ✉️ email
-    - primary: 
-      - Lolmc2022@outlook.com
-    - secondary: 
-      - bowmand117@stu.mwk12.ny.us
-  - 🐱 scratch:
-    - Bowmand117: 
-      - https://scratch.mit.edu/users/bowmand117
-    - Bowmandalt: 
-      - https://scratch.mit.edu/users/bowmand117
-    - Bowmand_test: 
-      - https://scratch.mit.edu/users/bowmand117
-    - topPVPmaster: 
-      - https://scratch.mit.edu/users/bowmand117
-  - ⬛ replit:
-    - main
-      - https://replit.com/@DillanBowman
-    - ask
-      - https://ask.replit.com/u/Dillan-Bowman/
+  - [🌐 /Dillan-Bowman/profile-links/blob/main/README.md](https://github.com/Dillan-Bowman/profile-links/blob/main/README.md)
 
 
 <!---
