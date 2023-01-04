@@ -30,7 +30,7 @@
   - 📘 The Alchymest book series (michael scott)
   - 🍰 baking goodies
 - 📫 How to reach me:
-  - [🌐 Linktree]([https://github.com/Dillan-Bowman](https://linktr.ee/dillanbowman))
+  - [🌐 Linktree](https://linktr.ee/dillanbowman)
 
 
 <!---
