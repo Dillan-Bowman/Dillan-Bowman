@@ -3,8 +3,8 @@
 - 👀 What you can expect to see on this account:
   - i may create some HTML/CSS/JS projects here
 - 🔤 Languages:
-  - 🐍 python (learning)
-  - 📝 HTML/CSS/JS (learning)
+  - 🐍 python (Basics)
+  - 📝 HTML/CSS/JS (Basics)
   - ▶️ Block coding, scratch
 - 💞️ I enjoy:
   - 🎮 minecraft
