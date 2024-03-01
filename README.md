@@ -7,12 +7,12 @@
   - 📝 HTML/CSS/JS (Basics)
   - ▶️ Block coding, scratch
 - 💞️ I enjoy:
-  - 🎮 minecraft
-  - 🎮 Plants Vs Zombies (the og)
+  - 🎮 Minecraft
+  - 🎮 Plants Vs Zombies
   - 🎮 Final Fantasy
   - 🎥 Star wars
   - 🎴 Exploding Kittens
-  - 🍰 baking goodies
+  - 🍰 baking
 - 📫 How to reach me:
   - [🌐 Linktree](https://linktr.ee/dillanbowman)
 
