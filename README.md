@@ -18,7 +18,9 @@
   - [Twitch](https://www.twitch.tv/LOL_MC_GAMER)
   - [Reddit](https://www.reddit.com/u/PossibleAssistance81/s/UgpG6VTamu)
   - [Steam](https://steamcommunity.com/id/lolmcgamer/)
-  - [Discord]()
+  - [Discord](http://discordapp.com/users/1030246333220651070)
+  - Xbox - LOL_MC_GAMER
+  - Nintendo/Pokemon - BowmanDS
 
 <!---
 Dillan-Bowman/Dillan-Bowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
