@@ -14,8 +14,11 @@
   - 🎴 Exploding Kittens
   - 🍰 baking
 - 📫 How to reach me:
-  - [🌐 Linktree](https://linktr.ee/dillanbowman)
-
+  - [Youtube](https://www.youtube.com/channel/UCYZnubjX8psYgfoinjCO3eQ)
+  - [Twitch](https://www.twitch.tv/LOL_MC_GAMER)
+  - [Reddit](https://www.reddit.com/u/PossibleAssistance81/s/UgpG6VTamu)
+  - [Steam](https://steamcommunity.com/id/lolmcgamer/)
+  - [Discord]()
 
 <!---
 Dillan-Bowman/Dillan-Bowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
